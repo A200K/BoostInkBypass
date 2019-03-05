@@ -1,4 +1,4 @@
-# BoostInkBypass
+# Boost.ink Bypass Script
 Recently i wanted to download a file from youtube when i stumbled across a site called Boost.ink<br>
 It required me to 'like' and 'subscribe' the video author's content in order to display the file url.<br>
 <img src="https://i.a200k.xyz/raw/TvkUTE.png">
