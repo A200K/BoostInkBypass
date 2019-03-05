@@ -11,6 +11,7 @@
 (function() {
     'use strict';
 
+    // Ghetto sleep function, thx js
     function sleep( millisecondsToWait )
     {
         var now = new Date().getTime();
