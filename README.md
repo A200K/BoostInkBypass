@@ -1,6 +1,6 @@
 # Boost.ink Bypass Script
 Recently i wanted to download a file someone posted on youtube when i stumbled across a site called Boost.ink<br>
-<a href="https://boost.ink/">Boost.ink</a> is basically some shitty url shortening tool which allows you to add stuff like 'Like this video and subscribe to this guy to access your file/url' for noname youtubers to gain more attention.<br>
+<a href="https://boost.ink/">Boost.ink</a> is basically some url shortening tool which allows you to add stuff like 'Like this video and subscribe to this guy to access your file/url' for noname youtubers to gain more likes/subscriptions/attention etc.<br>
 <img src="https://i.a200k.xyz/raw/TvkUTE.png">
 
 On Twitter they claimed to have some 'unbypassable' system<br>
